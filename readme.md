@@ -2,7 +2,7 @@
 
 this is just a test to see how Github profiles look like.
 
-Skills: Java, Javascript, HTML, CSS, SCSS, REACT
+Skills: Java, Javascript, HTML, CSS, SCSS, REACT, C#
 
 - 🌱 I’m currently learning JavaScript, REACT 
 - 📫 How to reach me: https://ojail.online 
