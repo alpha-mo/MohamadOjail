@@ -22,5 +22,3 @@ Skills: Java, Javascript, HTML, CSS, SCSS, REACT, C#
 ![GitHub metrics](https://metrics.lecoq.io/MohamadOjail)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MohamadOjail)  
-
-![Profile views](https://gpvc.arturio.dev/MohamadOjail)  
