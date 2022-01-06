@@ -24,5 +24,5 @@ Skills: Java, Javascript, HTML, CSS, SCSS, REACT, C#
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MohamadOjail)  
 
 <div align="center">
-    <img src="example.svg" width="400" height="400" alt="css-in-readme">
+    <img src="example.svg" width="400" height="80" alt="css-in-readme">
 </div>
