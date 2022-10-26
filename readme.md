@@ -1,19 +1,11 @@
-this is just a test to see how Github profiles look like.
+![Metrics](https://metrics.lecoq.io/alpha-mo?template=classic&base.hireable=true&languages=1&repositories=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=true&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&repositories=false&repositories.featured=contact-form-server%2C%20SpringBootSecurityExample%2C%20maven-plugin-tryParse&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&achievements=false&achievements.threshold=A&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Europe%2FStockholm)
 
-Skills: Java, Javascript, HTML, CSS, SCSS, REACT, C#, Svelte
+[![trophy](https://github-profile-trophy.vercel.app/?username=alpha-mo&theme=onedark)](https://github.com/alpha-mo/github-profile-trophy)
 
-- 🌱 I’m currently learning JavaScript, REACT 
-- 📫 How to reach me: https://ojail.online 
-- ⚡ Fun fact: there is no fact that is fun, it's just a fact. 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alpha-mo&show_icons=true&theme=radical)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MohamadOjail)](https://github.com/ryo-ma/github-profile-trophy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alpha-mo&langs_count=8&theme=radical)](https://github.com/alpha-mo/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamadOjail&langs_count=10&hide=GLSL%2CRust%2CGo%2CPython%2CShell%2CAssembly%2CObjective-C%2C%20Scala%2CAda%2CVisual%20Basic%20.Net%2CHaxe%2CD)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamadOjail&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MohamadOjail)  
-
-![GitHub metrics](https://metrics.lecoq.io/MohamadOjail)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MohamadOjail)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=alpha-mo&theme=highcontrast)](https://git.io/streak-stats)
